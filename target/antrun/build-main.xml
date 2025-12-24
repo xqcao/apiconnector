@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="maven-antrun-" default="main">
+  <target name="main">
+    <copy file="D:\try2026demo\mcpWithDB\apiconnector\custom-api-camunda88\target/custom-api-camunda88-1.0.0.jar" todir="D:\try2026demo\camunda-distributions\docker-compose\versions\camunda-8.8\myconnectors" overwrite="true" />
+  </target>
+</project>
